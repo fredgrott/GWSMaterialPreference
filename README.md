@@ -1,6 +1,7 @@
 GWSMaterialPreference
 =====================
 
+Some calls missed in the original that are somewhat important.
 
 Usage
 =====
