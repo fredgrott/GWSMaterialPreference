@@ -11,7 +11,7 @@ def libVersionName = "1.0.0.0"
 version = libVersionName
 def siteUrl = 'https://github.com/shareme/GWSMaterialPreference'
 def gitUrl = 'https://github.com/shareme/GWSMaterialPreference.git'
-group = "com.github.shareme.GWSMaterialPreference"
+group = "com.github.shareme"
 
 
 
